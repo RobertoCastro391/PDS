@@ -1,0 +1,12 @@
+Classe Calendar:
+
+A classe calendar (java.util.calendar) tem dois construtores:
+    
+    1º) Calendar():
+        Cria um calendário com o fuso horário e localização padrão.
+    2º) protected Calendar(TimeZone zone, Locale aLocale):
+        Cria um calendário com o fuso horário e localização especificados.
+
+O método createCalendar() cria uma nova instância de um tipo de calendário. 
+A invocação do método getInstance(), que invoca esta função.
+Assim, podemos concluir que o Design Pattern usado é o Factory Method.

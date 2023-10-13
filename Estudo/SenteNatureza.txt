@@ -1,0 +1,31 @@
+
+Alínea a) ----------------------------------
+
+Alojamento [nome=Camping Serr&Sol - Bungalow 2, descrisao=Bungalow T1, price=120.0, ocupacao Maxima=3]
+Alojamento [nome=Camping Serr&Sol - Bungalow 1, descrisao=Bungalow T0, price=90.0, ocupacao Maxima=2]
+Alojamento [nome=Camping Serr&Sol - Tenda 3, descrisao=Local para tenda, 5 m2, price=70.0, ocupacao Maxima=3]
+MundoRural [nome=Pastoreio, descrisao=Pastor por um dia, price=60.0]
+Alojamento [nome=Camping Serr&Sol - Tenda 2, descrisao=Local para tenda, 3 m2, price=50.0, ocupacao Maxima=2]
+MundoRural [nome=Queijos & Doces, descrisao=Faça o seu queijo e doce para o lanche, price=80.0]
+Alojamento [nome=Camping Serr&Sol - Tenda 1, descrisao=Local para tenda, 2 m2, price=40.0, ocupacao Maxima=1]
+Passeio [nome=Lousã TT, descrisao=Passeio na serra em 4x4, price=320.0]
+Aventura [nome=Canyoning Ribeira da Pena, descrisao=Descida a pé da Ribeira da Pena, price=80.0]
+Passeio [nome=Lousã a cavalo, descrisao=Passeio a cavalo pelas aldeias de xisto, price=100.0]
+Aventura [nome=Descida do rio, descrisao=Descida em kayak, price=100.0]
+Aventura [nome=Escalada, descrisao=Escalada em Góis, price=80.0]
+
+Alínea b) ----------------------------------
+
+PASEIO
+MundoRural [nome=Pastoreio, descrisao=Pastor por um dia, price=60.0]
+MundoRural [nome=Queijos & Doces, descrisao=Faça o seu queijo e doce para o lanche, price=80.0]
+Passeio [nome=Lousã a cavalo, descrisao=Passeio a cavalo pelas aldeias de xisto, price=100.0]
+Aventura [nome=Descida do rio, descrisao=Descida em kayak, price=100.0]
+Aventura [nome=Escalada, descrisao=Escalada em Góis, price=80.0]
+Alojamento [nome=Camping Serr&Sol - Bungalow 2, descrisao=Bungalow T1, price=120.0, ocupacao Maxima=3]
+Alojamento [nome=Camping Serr&Sol - Bungalow 1, descrisao=Bungalow T0, price=90.0, ocupacao Maxima=2]
+Alojamento [nome=Camping Serr&Sol - Tenda 3, descrisao=Local para tenda, 5 m2, price=70.0, ocupacao Maxima=3]
+Alojamento [nome=Camping Serr&Sol - Tenda 2, descrisao=Local para tenda, 3 m2, price=50.0, ocupacao Maxima=2]
+Alojamento [nome=Camping Serr&Sol - Tenda 1, descrisao=Local para tenda, 2 m2, price=40.0, ocupacao Maxima=1]
+Passeio [nome=Lousã TT, descrisao=Passeio na serra em 4x4, price=320.0]
+Aventura [nome=Canyoning Ribeira da Pena, descrisao=Descida a pé da Ribeira da Pena, price=80.0]

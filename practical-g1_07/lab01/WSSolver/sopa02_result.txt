@@ -1,0 +1,29 @@
+Penguin     	 7   	 11,11 	 UPLEFT     
+Goat        	 4   	  4,3  	 DOWNRIGHT  
+PanDa       	 5   	  8,4  	 DOWN       
+Giraffe     	 7   	 12,12 	 LEFT       
+PolarBear   	 9   	  7,15 	 DOWN       
+Lion        	 4   	  4,12 	 DOWN       
+Tiger       	 5   	  1,14 	 DOWN       
+Elephant    	 8   	 13,13 	 UP         
+Meerkat     	 7   	 13,11 	 LEFT       
+toad        	 4   	  6,3  	 DOWN       
+Frog        	 4   	 11,7  	 UP         
+Alligator   	 9   	 13,14 	 UPLEFT     
+Stork       	 5   	  3,1  	 DOWN       
+MonkEy      	 6   	  1,11 	 DOWN       
+. . . . . . . . . . M . . T . 
+. . . . . . . . . . O . . I . 
+S . . . . . . . . . N . . G . 
+T . G . . . . . . . K L . E . 
+O . . O N R . . . . E I . R . 
+R . T . A I O . . . Y O T . . 
+K . O . . T U T . . . N N . P 
+. . A P . . G G A . . . A . O 
+. . D A . . O . N G . . H . L 
+. . . N . . R . . E I . P . A 
+. . . D . . F . . . P L E . R 
+. . . A . E F F A R I G L . B 
+. . . . T A K R E E M . E A E 
+. . . . . . . . . . . . . . A 
+. . . . . . . . . . . . . . R 

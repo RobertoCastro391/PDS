@@ -1,0 +1,18 @@
+oliGArcH    	 8   	  1,10 	 DOWNLEFT   
+DEPOSit     	 7   	  9,8  	 LEFT       
+linden      	 6   	 10,8  	 LEFT       
+Crow        	 4   	  2,8  	 DOWNLEFT   
+CataLYst    	 8   	  2,1  	 DOWN       
+board       	 5   	  4,2  	 DOWNRIGHT  
+ASia        	 4   	  3,10 	 DOWNLEFT   
+grapes      	 6   	  1,8  	 LEFT       
+. . S E P A R G . O 
+C . . . . . . C L . 
+A . . . . . R I . A 
+T B . . . O G . S . 
+A . O . W A . I . . 
+L . . A R . A . . . 
+Y . . C R . . . . . 
+S . H . . D . . . . 
+T T I S O P E D . . 
+. . N E D N I L . . 

@@ -1,0 +1,4 @@
+ Template Method permite que se defina uma estrutura geral para um algoritmo em uma classe base, permite  também que partes específicas desse 
+ algoritmo sejam implementadas nas subclasses, facilitando a reutilização.
+
+ Selecionando as seguintes 3 classes "java.io.OutputStream", "java.io.Reader" e "java.io.Writer", podemos concluir que ambas emplementam o tempalte method
